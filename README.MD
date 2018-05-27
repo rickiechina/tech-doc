@@ -1,6 +1,6 @@
 # 技术文档
 
-## 比特币、区块链和供应链金
+## 比特币、区块链和供应链金融
 
 ![](https://raw.githubusercontent.com/rickiechina/tech-doc/master/images/blockchain-ppt.png)
 

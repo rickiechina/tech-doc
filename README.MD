@@ -2,7 +2,7 @@
 
 ## 比特币、区块链和供应链金
 
-![https://raw.githubusercontent.com/rickiechina/tech-doc/master/images/blockchain-ppt.png]()
+![](https://raw.githubusercontent.com/rickiechina/tech-doc/master/images/blockchain-ppt.png)
 
 ### 分享交流主题
 
@@ -14,7 +14,7 @@
 
 ##  基于Spring Boot、Spring Cloud重构SCM 项目 
 
-![https://raw.githubusercontent.com/rickiechina/tech-doc/master/images/SCM-SpringCloud-Arch.PNG]()
+![](https://raw.githubusercontent.com/rickiechina/tech-doc/master/images/SCM-SpringCloud-Arch.PNG)
 
 ### 分享交流主题
 

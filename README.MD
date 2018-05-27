@@ -2,7 +2,7 @@
 
 ## 比特币、区块链和供应链金
 
-![](D:\Github\技术分享\images\blockchain-ppt.png)
+![https://github.com/rickiechina/tech-doc/blob/master/images/blockchain-ppt.png]()
 
 ### 分享交流主题
 
@@ -14,7 +14,7 @@
 
 ##  基于Spring Boot、Spring Cloud重构SCM 项目 
 
-![](D:\Github\技术分享\images\SCM-SpringCloud-Arch.PNG)
+![https://github.com/rickiechina/tech-doc/blob/master/images/SCM-SpringCloud-Arch.PNG]()
 
 ### 分享交流主题
 
@@ -33,4 +33,3 @@
   * Distributed tracing with Sleuth and Zipkin
 * Spring Cloud & .Net Core
 * References
-
